@@ -1,3 +1,8 @@
+## 0.1.3
+
+- Example is a single `example/main.dart`; macOS runner removed.
+- `.pubignore` keeps tests, screenshots and tooling out of the package.
+
 ## 0.1.2
 
 - README: images use absolute URLs, so they show on pub.dev and GitHub.
