@@ -1,0 +1,29 @@
+name: graphview_plus
+description: >-
+  Interactive force-directed graph for Flutter: d3-style physics that settles
+  without jitter, non-overlapping nodes, pan/zoom, drag, hover and an
+  Obsidian-like reveal animation.
+version: 0.1.2
+repository: https://github.com/AlexHCJP/graphview_plus
+issue_tracker: https://github.com/AlexHCJP/graphview_plus/issues
+topics:
+  - graph
+  - force-directed
+  - visualization
+  - network
+  - canvas
+
+environment:
+  sdk: ^3.8.0
+  flutter: ">=3.32.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
